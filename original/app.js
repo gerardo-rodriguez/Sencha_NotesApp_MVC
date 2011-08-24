@@ -1,3 +1,4 @@
+// App written following this tutorial: http://miamicoder.com/2011/writing-a-sencha-touch-application-part-1/
 // Instantiate an application
 var App = new Ext.Application({
 	name: 'NotesApp',
