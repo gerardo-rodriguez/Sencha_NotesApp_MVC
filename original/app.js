@@ -29,7 +29,7 @@ var App = new Ext.Application({
 				id: 'notes-app-localstorage'
 			},
 			data: [
-				{ id: 1, date: new Date(), title: 'Test Note', narrative: 'This is simply a test note' }
+				{ id: 1, date: new Date(), title: 'Test Note', narrative: 'This is simply a test note.' }
 			]
 		});
 		
