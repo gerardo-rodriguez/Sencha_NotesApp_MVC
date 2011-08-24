@@ -6,6 +6,7 @@ Ext.regController('NotesController', {
 		}
 		
 		NotesApp.views.mainView.setActiveItem( NotesApp.views.notesListView );
+		
 	},
 	
 	'newnote': function (options) {
